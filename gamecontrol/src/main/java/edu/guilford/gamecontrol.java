@@ -9,7 +9,7 @@ public class gamecontrol
     public static void main( String[] args )
     {
 
-    //Build a gamestate object
+    //Instantiate a gamestate object
     gamestate gameState = new gamestate();
 
     //Initialize the game, then start it, wait 3 seconds, pause the game, wait 5 seconds, 
